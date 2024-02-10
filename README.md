@@ -8,7 +8,7 @@ Interactive Chat Interface: A user-friendly chat interface that allows for easy 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+
 Before you can run this chatbot, you'll need the following installed:
 
 Python 3.x
