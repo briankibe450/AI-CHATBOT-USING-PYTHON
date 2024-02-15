@@ -9,7 +9,7 @@ Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 
-Before you can run this chatbot, you'll need the following installed:
+Before you can run this chatbot, you need the following installed:
 
 Python 3.x
 NLTK library
