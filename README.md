@@ -41,6 +41,4 @@ We welcome contributions to this project! If you have suggestions to improve the
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgments
-Thanks to the NLTK team for providing such a powerful toolkit for NLP.
-This project was inspired by various open-source chatbot projects and tutorials.
+
