@@ -1,4 +1,4 @@
-# AI-ChatBot-with-Python
+# AI-ChatBot-with-Pytho
 Welcome to AI-CHATBOT-USING-PYTHON! This project is all about creating an intelligent chatbot using the Natural Language Toolkit (NLTK) in Python. The chatbot is designed to understand and respond to user queries by matching them with a suitable response from a predefined dataset. It's an excellent starting point for anyone interested in Natural Language Processing (NLP) or building their own AI chat systems.
 
 Features
